@@ -10,7 +10,7 @@ An interactive, 4-page Power BI dashboard that turns the raw Spotify **Top 50 Wo
 
 | Page | Preview file | Open full-resolution image |
 |---|---|---|
-| 🏠 Home | `images/home.png` | [**View Home →**](images/home.png) |
+| 🏠 Home | `images/home.png` | [**View Home →**]home.png |
 | 📊 Overview | `images/overview.png` | [**View Overview →**](images/overview.png) |
 | 🎤 Artists | `images/artists.png` | [**View Artists →**](images/artists.png) |
 | 🎵 Songs | `images/songs.png` | [**View Songs →**](images/songs.png) |
