@@ -5,38 +5,19 @@ An interactive, 4-page Power BI dashboard that turns the raw Spotify **Top 50 Wo
 > **Tool:** Power BI Desktop · **Data:** `spotify-top-50-world.csv` · **Canvas:** 1920 × 1080 (16:9) · **Custom visual:** Advance Card
 
 ## 📸 Dashboard Preview
-# Spotify Dashboard
+# Spotify Power BI Dashboard
 
 ## Home
-![Home page](images/home.png)
+![Home page](home.png)
 
 ## Overview
-![Overview page](images/overview.png)
+![Overview page](overview.png)
 
 ## Artists
-![Artists page](images/artists.png)
+![Artists page](artists.png)
 
 ## Songs
-![Songs page](images/songs.png)
-### 🏠 Home
-Landing page with the Spotify branding, an album-cover mosaic, and navigation buttons to every page.
-
-[![Home Page](images/home.png)](images/home.png)
-
-### 📊 Overview
-KPIs, now-playing album card, album-type and explicit breakdowns, and monthly trends.
-
-[![Overview Page](images/overview.png)](images/overview.png)
-
-### 🎤 Artists
-Artist rankings by distinct songs, total popularity, and Position #1 hits, with a drill-down table.
-
-[![Artists Page](images/artists.png)](images/artists.png)
-
-### 🎵 Songs
-Song rankings by popularity, songs per artist, and Position #1 hits, with a detailed table.
-
-[![Songs Page](images/songs.png)](images/songs.png)
+![Songs page](songs.png)
 
 ---
 
