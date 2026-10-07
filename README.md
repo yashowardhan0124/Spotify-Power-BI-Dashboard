@@ -46,7 +46,7 @@ Spotify's raw "Top 50" dataset is limited to lists and rankings, which makes it 
 - Spotify logo and album-cover mosaic background
 - Navigation buttons: **Home · Overview · Artists · Songs**
 
-### 2. 📊 Overview — [view image](images/overview.png)
+### 2. 📊 Overview — [view image](images/page-1.png)
 - **KPI cards:** Distinct Songs (**789**), Count of Artists (**342**), Avg Duration (**3.28 min**), Avg Popularity (**89.62**)
 - **Now-playing style card** showing the album cover for the selected track
 - **Songs by Album Type** (single 269, album 562)
@@ -58,14 +58,14 @@ Spotify's raw "Top 50" dataset is limited to lists and rankings, which makes it 
 - **Songs by Artist** and **Songs by Popularity** ranking bars
 - **"Songs & Artist" slicer panel** with album covers on the left. Selecting an item cross-filters the page.
 
-### 3. 🎤 Artists — [view image](images/artists.png)
+### 3. 🎤 Artists — [view image](images/page-2.png)
 - **Distinct Songs by Artist** (Taylor Swift leads with 85)
 - **Total Popularity by Artist**
 - **Position 1 Hits per Artist**, to spot artists with consistent #1 positions
 - **Drill-down table:** Year, Quarter, Month, Day, Avg / Max / Min Popularity, Avg Duration, Avg Tracks per Album, Distinct Songs
 - Now-playing album card and "Songs & Artist" slicer
 
-### 4. 🎵 Songs — [view image](images/songs.png)
+### 4. 🎵 Songs — [view image](images/page-3.png)
 - **Songs by Artist**
 - **Songs by Popularity**
 - **Songs Hits per Artist** (Position 1 hits)
