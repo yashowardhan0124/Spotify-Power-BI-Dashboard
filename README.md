@@ -11,13 +11,13 @@ An interactive, 4-page Power BI dashboard that turns the raw Spotify **Top 50 Wo
 ![Home page](home.png)
 
 ## Overview
-![Overview page](overview.png)
+![Overview page](page-2.png)
 
 ## Artists
-![Artists page](artists.png)
+![Artists page](page-3.png)
 
 ## Songs
-![Songs page](songs.png)
+![Songs page](page-4.png)
 
 ---
 
