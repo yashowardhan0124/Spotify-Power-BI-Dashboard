@@ -4,23 +4,20 @@ An interactive, 4-page Power BI dashboard that turns the raw Spotify **Top 50 Wo
 
 > **Tool:** Power BI Desktop · **Data:** `spotify-top-50-world.csv` · **Canvas:** 1920 × 1080 (16:9) · **Custom visual:** Advance Card
 
----
-
-## 🔗 Quick Links to Dashboard Photos
-
-| Page | Preview file | Open full-resolution image |
-|---|---|---|
-| 🏠 Home | ![Home page](images/home.png)
-| 📊 Overview | `images/overview.png` | [**View Overview →**](images/overview.png) |
-| 🎤 Artists | `images/artists.png` | [**View Artists →**](images/artists.png) |
-| 🎵 Songs | `images/songs.png` | [**View Songs →**](images/songs.png) |
-
-> Click any screenshot below to open it at full HD resolution (4833 × ~2715 px).
-
----
-
 ## 📸 Dashboard Preview
+# Spotify Dashboard
 
+## Home
+![Home page](images/home.png)
+
+## Overview
+![Overview page](images/overview.png)
+
+## Artists
+![Artists page](images/artists.png)
+
+## Songs
+![Songs page](images/songs.png)
 ### 🏠 Home
 Landing page with the Spotify branding, an album-cover mosaic, and navigation buttons to every page.
 
